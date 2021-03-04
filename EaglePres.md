@@ -35,7 +35,7 @@ transition: rotate
 
 Shiny App: https://edregne.shinyapps.io/EagleApp/
 
-GitHub ui.R and server.R files: 
+GitHub ui.R and server.R files: https://github.com/edregne/DevelopingDataProducts
 
 Reference Data: https://www.biologicaldiversity.org/species/birds/bald_eagle/report/
 
